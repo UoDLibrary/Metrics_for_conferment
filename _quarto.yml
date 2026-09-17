@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - Section1.qmd
+    - Section2.qmd
+    - Section3.qmd
+    - Section4.qmd
+    - Conclusion.qmd
+
+website:
+  title: "Responsible Research Metrics for Conferment"
+  repo-url: "https://github.com/UoDLibrary/Metrics_for_conferment"
+  repo-branch: main
+  repo-actions: 
+  - edit
+  - issue
+  google-analytics: 
+    tracking-id: "G-VZ21V1F0L2"
+  navbar:
+    logo: "images/UoD_Logo_port_RGB_Blk.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - Section1.qmd
+      - Section2.qmd
+      - Section3.qmd
+      - Section4.qmd
+      - Conclusion.qmd
+    
+  sidebar:
+    style: docked
+    search: true
+    contents:
+        - href: index.qmd
+          text: "Home"
+        - href: Section1.qmd
+          text: "Section 1"
+        - href: Section2.qmd
+          text: "Section 2"
+        - href: Section3.qmd
+          text: "Section 3"
+        - href: Section4.qmd
+          text: "Section 4"
+        - href: Conclusion.qmd
+          text: "Conclusion"
+          
+  back-to-top-navigation: true
+  page-navigation: true
+  page-footer: "Created by Naomi Richards @ University of Derby under a CC BY License"
+
+format:
+  html:
+    link-external-newwindow: true
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

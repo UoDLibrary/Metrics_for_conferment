@@ -1,0 +1,24 @@
+---
+title: "Section 4"
+format: html
+---
+
+## **Section 4 -** Evaluating the Social Sciences and Arts & Humanities
+
+As addressed in previous sections of this module, Arts & Humanities and Social Science disciplines are often inherently disadvantaged when it comes to quantitative research metrics. This can be for a variety of reasons, including that non-traditional research outputs are often not indexed in bibliographic databases, or that these indexes in the databases are smaller than their STEM counterparts. This has been a known problem for many years, and whilst still unresolved, ideas and initiatives are always in flux.  
+
+Using databases that have larger indexes in these areas is one potential method, but as shown in Section 2, would not be a complete solution by itself. Drawing data across multiple databases could help in casting the net as widely as possible. Looking at metrics outside of citations, such as alternative metrics, collaboration statistics, or civic engagement levels, could be another way of quantitatively highlighting areas of achievement.
+
+
+### The Hidden REF
+One initiative drawing attention to this issue in the United Kingdom is the [Hidden REF](https://hidden-ref.org/hidden-ref-competition/). This national campaign aims to celebrate all research outputs, specifically non-traditional outputs, and all the different people who contribute to them [(About Hidden REF, n.d.)](https://hidden-ref.org/hidden-ref-competition/). With publications such as books and journal articles accounting for 98% of the research outputs submitted to REF2021 [(About Hidden REF, n.d.)](https://hidden-ref.org/hidden-ref-competition/), participating in Hidden REF workshops and competitions could be one way for an institution to celebrate and enhance their research outputs, environments, and contributors in an expansive way. 
+
+
+### Alternative Data Sources
+One idea, proposed by Katherine Stephan at Liverpool John Moores University, is to look at how monographs are being used in libraries worldwide using [WorldCat](https://search.worldcat.org/), the “world’s largest library catalogue” [(WorldCat, n.d.)](https://search.worldcat.org/). Katherine can be contacted at K.D.Stephan@ljmu.ac.uk. This same principle could be directed internally towards your institution’s Library Management System. For example, if it is possible to see where a monograph sits on Resource Lists or how many times it has been on loan from the library, this quantitative evidence could be used to support an academic’s qualitative narrative of research informed teaching practice.  
+
+For outputs like performance pieces, or audiovisual material, creative and flexible techniques might have to be employed. One of the primary issues with quantitatively assessing such outputs, is the lack of indexing in traditional databases. One potential solution could be to obtain engagement or usage statistics from the platforms where these are hosted. For example, view statistics from an institutional repository, or platforms such as YouTube or Zenodo might be used to quantitatively supplement narratives relating to the piece. 
+
+
+### Flexibility
+Making metrics an optional element of the professorial promotion submission is one way in which the University of Derby is committed to the individual’s agency through this process and acknowledges the current tensions in evaluating certain disciplines in a quantitative manner.

@@ -1,0 +1,32 @@
+---
+title: "Section 3"
+format: html
+---
+
+## **Section 3 -** Industry Best Practices
+
+Responsible research evaluation is a constantly growing and shifting landscape. As our understanding of metric methodologies increases, new initiatives arise and best practices are further adopted. We must continually reflect inward on our personal and institutional processes to continue providing responsible practices.  
+At the time of publication (September 2026), there are several widely upheld industry standards to take into consideration when using research metrics for evaluation, especially when evaluating individuals.  
+
+
+### Journal Impact Factor
+
+The previously mentioned [San Francisco Declaration on Responsible Research Assessment](https://sfdora.org/read/) recommends that JIF not be used for individual researcher evaluation. This is for a variety of reasons, including that citation counts in a journal are often highly skewed, as well as very field specific [(DORA, n.d.)](https://sfdora.org/read/). The JIF of a journal should not be used to infer the quality of a single research output, or of an individual’s research contribution [(DORA, n.d.)](https://sfdora.org/read/). As a signatory of DORA, the University of Derby is committed to not using JIF or similar journal level metrics in hiring or promotion processes.  
+
+
+### H-Index
+The H-Index is another research metric which has fallen out of fashion for individual evaluation because of several factors. It is discipline size dependent with individuals in small, specialized fields of research tending to have a lower h-index, it doesn’t take into account self-citations and the longer that a researcher has been writing and publishing the more likely it is that they will have a higher h-index. For these reasons the University of Derby does not allow the use of the H-Index in individual assessment processes.  
+
+
+### Raw Citation Counts
+itation Counts  
+
+The number of citations an output receives is not a reliable means of assessing the quality of research and should certainly not be used in isolation.  A citation is not necessarily a positive reference. An article can be highly cited because it is controversial, satirical, or its claims are being challenged. Even if an article has been retracted, it can continue to accrue citations.  
+
+Studies suggest that gendered and racial biases exist in citation patterns and networks. Women – or those authors with stereotypically “female” names – tend to be cited less [(Larivière et al. 2013)](https://doi.org/10.1038/504211a). This could mean that citation counts underrepresent the impact of female or Black, Asian and Minority Ethnic authors. The University of Derby has not allowed the use of raw citation counts in conferment process applications since becoming a signatory of DORA in 2022.  
+
+
+### Qualitative Evidence
+It is generally accepted best practice to use multiple quantitative metrics in support of qualitative evidence in order to produce a well-rounded, holistic picture of the research contribution of an individual. The first and arguably most important tenet the [Leiden Manifesto](https://www.leidenmanifesto.org/), is that quantitative evidence should support but never supplant qualitative assessment. The University of Derby abides by this principle by requiring applicants for professorial promotion submit a multiple component portfolio with an optional research metrics report as one part. 
+
+

@@ -1,0 +1,38 @@
+---
+title: "Section 2"
+format: html
+---
+
+## **Section 2 -** Data Sources
+
+The first step in using research metrics for evaluation, is to decide from where you’ll be obtaining this data. This can greatly influence the end results of the analysis and must be considered with care. Which database you choose will determine which (pre-calculated) metrics you have access to and how they are calculated. Below some pros and cons of the most prominent bibliographic databases will be discussed. No database will be perfect, and no database is better than another. Careful consideration should be given to the unique demographics of your research institution when deciding on a data source.  
+
+### Web of Science by Clarivate
+
+One of the oldest bibliographic databases, known for its excellent metadata and selective inclusion process. Web of Science (WoS) is one of the historically preferred databases for bibliometric or research metric analyses for these reasons and was in fact the only tool available for citation analysis until 2004 [(Mongeon, and Paul-Hus, 2016)](https://link.springer.com/article/10.1007/s11192-015-1765-5). The Web of Science Core Collection contains over 100 million records, including more than 157,000 books and 22 000 journals [(WoS Coverage Details, 2026)](https://clarivate.libguides.com/librarianresources/coverage). The Core Collection indexes journals articles, books, conference proceedings whilst the entire WoS platform additionally includes patents, datasets, and policy through addition speciality and regional collections [(Web of Science Coverage Details, 2026)](https://clarivate.libguides.com/librarianresources/coverage). Availability of and depth of data will depend on institutional access. 
+
+Whilst recent efforts have been made to include non-traditional research outputs such as datasets and patents, the coverage of these types of outputs is unlikely to be as expansive in comparison to articles, books, and conference proceedings. Similarly, output types like performance pieces, are not indexed at all. This is a major disadvantage when analysing academics or researchers in specific disciplines.  
+
+Furthermore, research has shown that coverage of certain fields such as Natural Sciences, Engineering, and Biomedical Research is greater than those of the Social Sciences, Arts, and Humanities [(Mongeon, and Paul-Hus, 2016)](https://link.springer.com/article/10.1007/s11192-015-1765-5). It is also known that the English language alongside North American and Europe journals greatly dominate this database ([Mongeon, and Paul-Hus, 2016](https://link.springer.com/article/10.1007/s11192-015-1765-5); [Asubiaro et al., 2024](https://link.springer.com/article/10.1007/s11192-024-04948-x#citeas)).  
+
+
+### Scopus by Elsevier
+Scopus is another traditional bibliographic database known for its metadata quality and selective indexing. Scopus indexes journals, books, conference papers, and some preprints from more than 7000 global publishers [(Content policy, and selection, n.d.)](https://www.elsevier.com/products/scopus/content/content-policy-and-selection#0-quality-content%E2%80%AF-). Dissertations are not indexed in Scopus, and preprints do not have any metric data [(Content policy, and selection, n.d.)](https://www.elsevier.com/products/scopus/content/content-policy-and-selection#0-quality-content%E2%80%AF-). As addressed in the above section on Web of Science, the fact that Scopus does not index non-traditional research outputs can be a disadvantage for research evaluation.  
+
+As with the Web of Science, it is known that Social Science or Arts & Humanities journals are not as extensively indexed in Scopus as other disciplines [(Mongeon, and Paul-Hus, 2016)](https://link.springer.com/article/10.1007/s11192-015-1765-5). In Scopus it is also true that most languages besides English, and most regions besides Europe and North America are underrepresented ([Mongeon, and Paul-Hus, 2016](https://link.springer.com/article/10.1007/s11192-015-1765-5); [Asubiaro et al., 2024](https://link.springer.com/article/10.1007/s11192-024-04948-x#citeas)).  
+
+
+### Dimensions by Digital Science
+Dimensions, by Digital Science, is a database that indexes over 98 million publications and 150 million patents [(Dimensions Data, n.d.)](https://www.dimensions.ai/dimensions-data/). In addition to more traditional research outputs like articles, books, and preprints, Dimensions also indexes datasets, grants, patent records, clinical trials, and policy documents [(Dimensions Data, n.d.)](https://www.dimensions.ai/dimensions-data/).
+
+Compared to Web of Science and Scopus, Dimensions has been shown to have the most expansive journal coverage of the three, as well as the largest coverage of the Social Sciences and Arts & Humanities [(Kumar Singh et al., 2021)](https://link.springer.com/article/10.1007/s11192-021-03948-5). It is worth noting that while Dimensions may have a larger percentage of coverage than the others, Arts & Humanities still only comprise 3.5% of the publication records indexed in Dimensions [(Kumar Singh et al., 2021)](https://link.springer.com/article/10.1007/s11192-021-03948-5). In terms of country volume output, Dimensions has less research output by volume from China and India compared to Web of Science and Scopus [(Kumar Singh et al., 2021)](https://link.springer.com/article/10.1007/s11192-021-03948-5). 
+
+
+### OpenAlex by OurResearch
+OpenAlex is a free, open source, database which indexes over 200 million works. Created in 2022 and named after the Library of Alexandria, its mission is to "create a universal collection of scholarship" [(About OpenAlex, n.d.)](https://openalex.org/about).  
+
+OpenAlex has the most expansive collection of indexed material when compared to the other databases addressed here, and adopts a policy of “maximum inclusivity” [(Torres-Salinas & Arroyo-Machado, 2026, p.8)](https://doi.org/10.5281/zenodo.18411229). Whilst providing enhanced inclusivity towards non-English language publications, and non-traditional outputs, this model does also mean that known predatory journals are included in OpenAlex, and the responsibility for filtering these out is placed on the user [(Torres-Salinas & Arroyo-Machado, 2026, p.8)](https://doi.org/10.5281/zenodo.18411229).
+
+
+### Others
+Other specialized databases such as Overton Index, Altmetric Explorer, and Policy Commons could also be considered for the purpose of research evaluation. These specialized databases offer alternative ways of analysing research engagement and often index outputs that more traditional bibliographic databases might overlook. As discussed in Section 1, using multiple data sources and metrics can be a good way to make your metric use more robust and holistic.  

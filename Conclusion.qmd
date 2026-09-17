@@ -1,0 +1,24 @@
+---
+title: "Conclusion"
+format: html
+---
+
+Careful consideration must be taken when using quantitative research metrics for individual evaluation to ensure that you are being responsible and equitable. This does not mean, however, that metrics cannot be used alongside other qualitative evidence to comprise an individual’s research portfolio. The most responsible research evaluation is one that is shaped with input from those being evaluated and allows them the agency to advocate for their research prowess in a flexible, responsive manner.  
+
+For those on the University of Derby Conferment Panel, this module is provided alongside the internal [Metric Guidance for Conferment](https://unimailderbyac.sharepoint.com/:w:/s/LibraryResearchLiaisonTeam/IQB2xy5tQSiGSJFnZjOWxphyAS1LG7juqLupL6ITy-ysQt4?e=ybPGKK) for your support. We strongly recommended the revision of both resources. Additionally, we ask that those associated with the University of Derby fill out this anonymous [feedback form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=OrvxmPpegkeIur2JfbYOYj9DoJzQsrBAu_-xto14rc1URVhUNlI3RzdaUVZWQ0NSSVZBUzRRMVNQRi4u) upon completion of this module.  
+
+
+### **What’s next?**
+
+Test your knowledge with our [Responsible Metrics Quiz](https://forms.office.com/e/HPaZ4MG0Pw?origin=lprLink){target="_blank"}
+
+Read the [University responsible metrics policy](https://unimailderbyac.sharepoint.com/sites/URKEO/SitePages/Responsible-Use-of-Metrics.aspx){target="_blank"}
+
+Visit our [Libguide on Research Metrics](https://libguides.derby.ac.uk/c.php?g=689861&p=4939145){target="_blank"}
+
+Specific question? Contact the Research Intelligence Librarian at n.richards1\@derby.ac.uk
+
+
+This module is shared under a CC BY license so that it may be adapted to suit other institutions' policies. The module has been developed in R using Quarto and is available on GitHub for remixing <https://github.com/UoDLibrary/Metrics_for_conferment>
+
+

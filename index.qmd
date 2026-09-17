@@ -1,0 +1,21 @@
+---
+title: "Responsible Research Metrics for Conferment"
+---
+
+#### Welcome to this self-study module
+
+Welcome to the University of Derby’s second self-study module on responsible research metrics. This module is designed to solely address the use of quantitative research metrics in individual evaluation and should be preceded by the original module on [Responsible Research Metrics](https://uodlibrary.github.io/Responsible_Metrics_Module/). 
+
+While Section 1 does cover the basics of responsible research metric use, it is highly recommended to refer to the [Responsible Research Metrics](https://uodlibrary.github.io/Responsible_Metrics_Module/) module for further information, and guidance, as well as background information on the Research Excellence Framework which is alluded to in Section 4 of this module.
+
+Additionally, for University of Derby Conferment Panelists, this module is provided alongside the internal [Metric Guidance for Conferment](https://unimailderbyac.sharepoint.com/:w:/s/LibraryResearchLiaisonTeam/IQB2xy5tQSiGSJFnZjOWxphyAS1LG7juqLupL6ITy-ysQt4?e=ybPGKK) for your support.
+
+
+This module is designed for:
+
+-   Individuals on conferment panels where research is used as part of the assessment; 
+-   Anyone who is interested in how research is assessed or measured. 
+
+Section 1 provides an overview of responsible research metric use, and Section 2 addresses the most common bibliometric databases alongside their known strengths and weaknesses. Section 3 is about industry best practices, and Section 4 offers specific information about evaluating the Social Sciences and Arts & Humanities.  
+
+For help please contact the Research Intelligence Librarian via n.richards1\@derby.ac.uk ![](images/LYL_Red.png.png){fig-alt="Red Love Your Library logo" fig-align="left" width=10%}
