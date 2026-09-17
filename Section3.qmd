@@ -19,7 +19,6 @@ The H-Index is another research metric which has fallen out of fashion for indiv
 
 
 ### Raw Citation Counts
-itation Counts  
 
 The number of citations an output receives is not a reliable means of assessing the quality of research and should certainly not be used in isolation.  A citation is not necessarily a positive reference. An article can be highly cited because it is controversial, satirical, or its claims are being challenged. Even if an article has been retracted, it can continue to accrue citations.  
 
